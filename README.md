@@ -1,5 +1,7 @@
 Docker-Hyperledger-Peer
 ===
+**This is deprecated, pls see [hyperledger-fabric-peer]((https://github.com/yeasy/docker-hyperledger-fabric-peer).**
+
 Docker images for [Hyperledger](https://www.hyperledger.org) fabric peer.
 
 # Supported tags and respective Dockerfile links
